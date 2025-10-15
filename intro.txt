@@ -7,3 +7,9 @@ Kỹ năng:
 - Kỹ năng giao tiếp và làm việc nhóm
 - Kỹ năng sử dụng tin học văn phòng (Word, Excel, PowerPoint).
 - Kỹ năng quản lý thời gian hiệu quả.
+Kế hoạch học tập
+- Trong tuần tới, tôi sẽ dành ít nhất 2 tiếng mỗi ngày để ôn lại các lệnh Git cơ bản.
+- Mỗi buổi tối, tôi sẽ thực hành commit, push, pull và làm việc với branch trên GitHub.
+- Tôi sẽ tìm hiểu thêm về cách xử lý xung đột và sử dụng stash trong các tình huống thực tế.
+- Tôi sẽ tham gia vào một project nhóm nhỏ để áp dụng kiến thức đã học.
+- Cuối tuần, tôi sẽ tổng kết lại kiến thức và viết ghi chú để củng cố kỹ năng.
