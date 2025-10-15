@@ -1,0 +1,6 @@
+Tính năng mới: Hệ thống thông báo tự động.
+- Tính năng này sẽ gửi thông báo tự động đến người dùng khi có cập nhật mới trong dự án.
+- Người dùng có thể bật/tắt thông báo theo nhu cầu cá nhân.
+- Thông báo sẽ hiển thị trực tiếp trên giao diện hoặc qua email.
+- Hệ thống được thiết kế để hoạt động thời gian thực, giúp nhóm nắm bắt tiến độ nhanh chóng.
+- Mục tiêu là giúp cải thiện khả năng phối hợp và giảm thời gian bỏ sót thông tin quan trọng.
